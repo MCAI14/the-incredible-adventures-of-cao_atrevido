@@ -1,0 +1,2 @@
+  The repository the-incredible-adventures-of-cao_atrevido is primarily written in TypeScript (86.8%), with additional code in Python (10.5%), JavaScript (1.9%), and other languages (0.8%).
+  This project can be added as an extension in MakeCode, allowing users to create new projects and import this repository for further development.
