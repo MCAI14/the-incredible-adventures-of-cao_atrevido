@@ -2,7 +2,8 @@
     "name": "The Incredible Adventure of Cao_Atrevido",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "multiplayer": "*"
     },
     "files": [
         "main.blocks",
